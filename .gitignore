@@ -1,0 +1,6 @@
+# This file extensions will be ignored by git
+*.exe
+*.bat
+*.pdf
+
+
