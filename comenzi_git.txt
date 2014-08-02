@@ -1,0 +1,7 @@
+	Comenzi din git des utilizate
+
+rm -R filename		--> sterge fisierul (chiar daca e director)
+rm -Rf filename 	--> sterge fisierul chiar daca stergerea produce erori
+
+git log --pretty=format:"%h : %ar : %an : %s" --> format dragut pt. log
+
