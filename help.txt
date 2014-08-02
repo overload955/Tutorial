@@ -1,4 +1,5 @@
 ovi
 this is edited via github ui
 this is edited via git shell
-some hotfix
+some hotfix bla bla
+This will be kept by merge.
